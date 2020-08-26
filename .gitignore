@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+
+node_modules/
+dist/
+build/
+.sass-cache/
+.DS_Store
+.idea/
+.vscode/
+coverage
+versions/
+
